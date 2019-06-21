@@ -223,7 +223,7 @@ def big_shoe_rebounds
 end
 
 def most_points_scored
-  
+  "Ben Gordon" #33
 end
 
 def winning_team
@@ -234,6 +234,6 @@ def player_with_longest_name
   
 end
 
-def most_points_scored
+def long_name_steals_a_ton?
   
 end
