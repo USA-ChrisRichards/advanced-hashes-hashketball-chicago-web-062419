@@ -225,3 +225,15 @@ end
 def most_points_scored
   
 end
+
+def winning_team
+  
+end
+
+def player_with_longest_name
+  
+end
+
+def most_points_scored
+  
+end
